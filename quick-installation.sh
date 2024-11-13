@@ -12,7 +12,7 @@ sudo curl -sS https://bootstrap.pypa.io/get-pip.py | python3.12
 
 # clone github
 git clone https://github.com/ryzwan29/grass-auto-proxy.git
-cd grass-auto-proxy.git
+cd grass-auto-proxy
 
 # create environment python
 python3 -m venv env
