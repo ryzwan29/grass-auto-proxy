@@ -12,7 +12,7 @@ source <(curl -s https://raw.githubusercontent.com/ryzwan29/grass-auto-proxy/mai
 ```
 
 ## How to get User ID?
-- Open [Grass]([https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J](https://app.getgrass.io/register/?referralCode=FNA8f85dIe_epSX)) and login to dashboard
+- Open [Grass](https://app.getgrass.io/register/?referralCode=FNA8f85dIe_epSX) and login to dashboard
 - Right click and **inspect**
 - Select Console
 ```
