@@ -1,5 +1,21 @@
 # Automatic Bot GetGrass Without & With Proxy
-# [Register Here](https://app.getgrass.io/register/?referralCode=fIp-ogmECoJZhIN)
-# [Install Requirement First Here !](https://github.com/ylasgamers/getgrass/blob/main/Requirements.md)
-# [Get userId Grass Here](https://github.com/ylasgamers/getgrass/blob/main/geruserid.md)
-# [How To Run](https://github.com/ylasgamers/getgrass/blob/main/howrun.md)
+
+## Feature
+1. Quick installation with script
+2. Can run multi mode (Normal Extension, Node Extension, Desktop Mode)
+3. Can run with proxy/ without proxy
+4. Automatically remove inactive proxies
+
+## Installation
+```
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/grass-auto-proxy/main/quick-installation.sh)
+```
+
+## How to get User ID?
+- Open [Grass]([https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J](https://app.getgrass.io/register/?referralCode=FNA8f85dIe_epSX)) and login to dashboard
+- Right click and **inspect**
+- Select Console
+```
+localStorage.getItem('userId')
+```
+⚠️ If you can't paste in the console, please type manually ```allow pasting```
